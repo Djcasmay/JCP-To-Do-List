@@ -1,5 +1,3 @@
-# Dominic Casmay
-# 3rd Period
 # 1/10/24
 # Initialize
 todolist=[]
